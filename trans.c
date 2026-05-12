@@ -332,7 +332,7 @@ unsigned int enterChoice(void)
 {
     unsigned int menuChoice; // variable to store user's choice
 
-    // display available options
+    /
     printf("%s", "\nEnter your choice\n"
              "1 - store a formatted text file of accounts called\n"
              "    \"accounts.txt\" for printing\n"
